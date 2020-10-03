@@ -6,7 +6,6 @@
 == Zadání úkolu
 huiiiiii
 
-
 Vaším úkolem za 5 bodů je vytvořit command line aplikaci pracující s GitHub API,
 pomocí knihoven http://docs.python-requests.org[requests] a
 http://click.pocoo.org[click].
